@@ -10,7 +10,6 @@ This project implements a **deep learning-based system** for detecting diseases 
 Chest X-rays are a key diagnostic tool for identifying pulmonary conditions such as pneumonia, tuberculosis, and other respiratory diseases. Automating detection using **deep learning** improves efficiency, reduces human error, and assists medical professionals in decision-making.
 
 This project combines:
-- **Patient historical data** for context
 - **Chest X-ray image classification** using deep learning
 - **Data augmentation** to enhance model robustness
 
